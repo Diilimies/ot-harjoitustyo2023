@@ -1,4 +1,4 @@
-#Otsikko
+# Otsikko
 
 **Rohkea osuus.**
 
@@ -8,6 +8,6 @@ Tavallista tekstiä.
 
 Tavallista tekstiä.
 
-###Viikko1 tehtävät
+### Viikko1 tehtävät
 [gitlog.txt](https://github.com/Diilimies/ot_harjoitustyo/blob/main/laskarit/viikko1/gitlog.txt)
 [komentorivi.txt](https://github.com/Diilimies/ot_harjoitustyo/blob/main/laskarit/viikko1/komentorivi.txt)
