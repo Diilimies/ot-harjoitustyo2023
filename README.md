@@ -15,3 +15,6 @@ Tavallista tekstiä.
 [komentorivi.txt](https://github.com/Diilimies/ot_harjoitustyo/blob/main/laskarit/viikko1/komentorivi.txt)
 
 Afterpull ski money.
+
+
+Konfiktimuutos.
